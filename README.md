@@ -17,7 +17,12 @@ This project is a responsive user dashboard built using HTML, CSS, and JavaScrip
   <img src="mohit2.PNG" alt="DevOpsShack Banner">
 </div>
    
-
+### Tools and Modules 
+![](https://img.shields.io/badge/Programming_Language-HTML-orange.svg)
+![](https://img.shields.io/badge/Programming_Language-CSS-blue.svg)
+![](https://img.shields.io/badge/Programming_Language-JS-yellow.svg)
+![](https://img.shields.io/badge/Application-visualization-lemon.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 ## Folder Structure
 ```
 responsive-user-dashboard/
